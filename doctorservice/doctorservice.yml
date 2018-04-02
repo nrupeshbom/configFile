@@ -9,7 +9,7 @@
 #spring.jpa.show-sql: true
 #spring.jpa.hibernate.ddl-auto: update
 
-example.property: "I AM PATIENT SERVICE"
+example.property: "I AM DOCTOR SERVICE"
 spring.datasource.driver: "com.postgresql.Driver"
 spring.datasource.url: "jdbc:postgresql://localhost:5432/healthnet"
 spring.datasource.username: "postgres"
