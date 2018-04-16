@@ -1,6 +1,6 @@
 example.property: "I AM PRESCRIPTION SERVICE"
 spring.datasource.driver: "com.postgresql.Driver"
-spring.datasource.url: "jdbc:postgresql://localhost:5432/LatestHealthnet"
+spring.datasource.url: "jdbc:postgresql://localhost:5432/healthnet"
 spring.datasource.username: "postgres"
 spring.datasource.password: "root"
 spring.jpa.show-sql: "true"
